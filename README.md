@@ -4,7 +4,7 @@
 [![Linkedin: Sathe Onkar](https://img.shields.io/badge/-Sathe%20Onkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/onkar-sathe/)](https://www.linkedin.com/in/onkar-sathey/)
 [![Twitter: Sathe Onkar](https://img.shields.io/twitter/follow/satheonkar?style=social)](https://twitter.com/OnkarSathe16)
   
-I develop software, build technical communities, create content and love meeting new people!
+I develop software, passionate about creating high-quality, scalable, and user-friendly web applications and love meeting new people!
 
 
 [![Sathe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=onkarsathe&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/onkarsathe/github-readme-stats)
