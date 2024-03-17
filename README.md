@@ -3,7 +3,6 @@
 [![GitHub onkarsathe](https://img.shields.io/github/followers/onkarsathe?label=follow&style=social)](https://github.com/onkarsathe)
 [![Linkedin: Sathe Onkar](https://img.shields.io/badge/-Sathe%20Onkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/onkar-sathe/)](https://www.linkedin.com/in/onkar-sathey/)
 [![Twitter: Sathe Onkar](https://img.shields.io/twitter/follow/satheonkar?style=social)](https://twitter.com/OnkarSathe16)
-[![Polywork Badge](https://img.shields.io/badge/-satheonkar-orange?style=flat-square&logo=polywork&logoColor=black&link=http://polywork.com/satheonkar)](http://polywork.com/satheonkar)
   
 I develop software, build technical communities, create content and love meeting new people!
 
